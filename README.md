@@ -1,4 +1,10 @@
-# open-rent
+# open-rental
+
+### Open Rental is a repository for storing data regarding rental houses and PGs. Its completely open source and highly explainable with the details from past and present tenants. Not from the owners.
+
+### Getting Data:
+
+1\. [Fully Furnished](https://api.gitrows.com/@github/rayofreflection/open-rental/fully-furnished/data.json)
 
 ### Format :
 
@@ -16,7 +22,10 @@
       "city": "Chennai", 
       "location": "https://goo.gl/maps/VSSbDk3uum5RABKk6"
     },
-    "rent": 6000,
+    "payment": {
+      "rent": 6000, 
+      "advance": 10000
+    },
     "sharing": "Single", 
     "parking": true, 
     "parking_type": "open roof",
@@ -28,8 +37,6 @@
     "appliances": {
       "common": ["Water heater", "Water purifier", "Television", "Amazon fire TV stick", "Shoe rack", "Washing machine"], 
       "individual": ["Bed", "AC", "Table", "Shelf"]
-    },
-    "_comment_1": "Use only linkedin profile or e-mail for contact. For privacy issues, phone number is prohibited.", 
-    "_comment_2": "Add only rental places with rent less than 15000"
+    }
 }
 ```
