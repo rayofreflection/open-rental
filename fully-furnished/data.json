@@ -12,7 +12,10 @@
       "city": "Chennai", 
       "location": "https://goo.gl/maps/VSSbDk3uum5RABKk6"
     },
-    "rent": 6000,
+    "payment": {
+      "rent": 6000, 
+      "advance": 10000
+    },
     "sharing": "Single", 
     "parking": true, 
     "parking_type": "open roof",
