@@ -28,7 +28,43 @@
       "common": ["Water heater", "Water purifier", "Television", "Amazon fire TV stick", "Shoe rack", "Washing machine"], 
       "individual": ["Bed", "AC", "Table", "Shelf"]
     }
-  }, 
+  },
+  {
+    "name": "Revanth",
+    "contact": {
+      "email": "communication@rayofreflection.org", 
+      "linkedin": "https://www.linkedin.com/in/revantharunachalam/"   
+    },
+    "address": {
+      "place": "DLF Garden city", 
+      "landmark": "Near Thazhambur and Semmanjeri", 
+      "area": "Thazhambur", 
+      "city": "Chennai", 
+      "location": "https://goo.gl/maps/Te5MuWBhVyypCuA78"
+    },
+    "payment": {
+      "rent": 15000, 
+      "advance": 30000
+    },
+    "sharing": "Single", 
+    "parking": true, 
+    "parking_type": "underground",
+    "notice_period_in_months": 2,
+    "staying_at_present": false, 
+    "agreement": true, 
+    "privacy": false,
+    "separate_eb_meter": false,
+    "appliances": {
+      "common": ["Water heater", "Television", "Washing machine"], 
+      "individual": ["Bed", "AC", "Shelf"]
+    }
+    "pictures": ["https://cdn.shopify.com/s/files/1/0611/2208/5028/files/IMG-20220816-WA0004.jpg?v=1666934585", 
+      "https://cdn.shopify.com/s/files/1/0611/2208/5028/files/IMG-20220812-WA0006.jpg?v=1666934633",
+      "https://cdn.shopify.com/s/files/1/0611/2208/5028/files/IMG-20220813-WA0001.jpg?v=1666934617", 
+      "https://cdn.shopify.com/s/files/1/0611/2208/5028/files/IMG-20220813-WA0003.jpg?v=1666934609", 
+      "https://cdn.shopify.com/s/files/1/0611/2208/5028/files/IMG-20220816-WA0004.jpg?v=1666934585"
+    ]
+  },
   {
     "_comment_1": "Use only linkedin profile or e-mail for contact. For privacy issues, phone number is prohibited.", 
     "_comment_2": "Add only rental places with rent less than 15000"
