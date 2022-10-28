@@ -57,7 +57,7 @@
     "appliances": {
       "common": ["Water heater", "Television", "Washing machine"], 
       "individual": ["Bed", "AC", "Shelf"]
-    }
+    },
     "pictures": ["https://cdn.shopify.com/s/files/1/0611/2208/5028/files/IMG-20220816-WA0004.jpg?v=1666934585", 
       "https://cdn.shopify.com/s/files/1/0611/2208/5028/files/IMG-20220812-WA0006.jpg?v=1666934633",
       "https://cdn.shopify.com/s/files/1/0611/2208/5028/files/IMG-20220813-WA0001.jpg?v=1666934617", 
