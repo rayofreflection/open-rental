@@ -6,17 +6,11 @@
       "linkedin": "https://www.linkedin.com/in/revantharunachalam/",
       "instagram": "https://www.instagram.com/rayof_reflection/"
     },
-    "address": {
-      "place": "Olympia Opaline", 
-      "landmark": "Opposite of Vivira mall", 
-      "area": "Navalur", 
-      "city": "Chennai", 
-      "location": "https://goo.gl/maps/VSSbDk3uum5RABKk6"
-    },
-    "payment": {
-      "rent": 6000, 
-      "advance": 10000
-    },
+    "area": "navalur", 
+    "city": "chennai", 
+    "location": "https://goo.gl/maps/VSSbDk3uum5RABKk6",
+    "rent": 6000, 
+    "advance": 5000,
     "sharing": "Single", 
     "parking": true, 
     "parking_type": "open roof",
@@ -37,18 +31,12 @@
       "linkedin": "https://www.linkedin.com/in/revantharunachalam/", 
       "instagram": "https://www.instagram.com/rayof_reflection/"
     },
-    "address": {
-      "place": "DLF Garden city", 
-      "landmark": "Near Thazhambur and Semmanjeri", 
-      "area": "Thazhambur", 
-      "city": "Chennai", 
-      "location": "https://goo.gl/maps/Te5MuWBhVyypCuA78"
-    },
-    "payment": {
-      "rent": 15000, 
-      "advance": 30000
-    },
-    "sharing": "Single", 
+    "area": "thazhambur", 
+    "city": "chennai", 
+    "location": "https://goo.gl/maps/Te5MuWBhVyypCuA78",
+    "rent": 15000, 
+    "advance": 30000,
+    "sharing": "single", 
     "parking": true, 
     "parking_type": "underground",
     "notice_period_in_months": 2,
